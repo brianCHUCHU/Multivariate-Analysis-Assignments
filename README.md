@@ -1,2 +1,2 @@
 # Multivariate-Analysis-Assignments
- School assignments from Multivariate Analysis
+This is a school assignments in `Multivariate Analysis` by Prof. Chi-Chuan Liu, National Taiwan University.
